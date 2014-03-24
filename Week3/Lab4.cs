@@ -14,3 +14,4 @@ namespace calculator_sum
 		}
 	}
 }
+
